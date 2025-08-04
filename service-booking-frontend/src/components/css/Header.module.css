@@ -1,0 +1,12 @@
+.navbar {
+  transition: all 0.3s ease;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.greeting {
+  font-weight: 350;
+  font-size: 18px;
+  color: #333;
+}
